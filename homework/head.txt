@@ -1,0 +1,11 @@
+<html>
+<body>
+ <table  cellSpacing="1" cellPadding="1" width="60%" align="center" 
+	 border="0" >
+   <tr valign="bottom">
+   <td><A href="one.jsp"><font size=3>one.jsp“≥√Ê</font></A></td>
+   <td><A href="two.jsp"><font size=3>two.jsp“≥√Ê</font></A></td>
+  </tr>
+</table>
+</body>
+</html>
