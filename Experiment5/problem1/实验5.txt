@@ -1,0 +1,25 @@
+一、
+
+建立数据库newsdb和数据表user(id,username,password,lastLoginTime)
+插入一条测试数据
+
+Eclipse中新建一个Web Project。 /WebContent/Web-inf/lib
+
+复制jar文件
+
+P84
+编写登陆
+表单 文本框：账号、密码 提交按钮
+
+验证页面（JDBC）  JDBC访问数据库  P84
+
+二、P93
+
+1.User.java
+2.UserDAO.java (接口）实现  JDBC访问数据库 
+	public static void update(User user)
+	public static User getUserbyId(Int id)
+	public static User getUserbyUsername(String username)
+----UserDAOImpl.java（实现）
+
+3.修改作业一的验证页面。通过UserDAO访问数据库。
